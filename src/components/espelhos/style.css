@@ -1,0 +1,25 @@
+.espelho-box {
+    width: 250px;
+    border: 1px solid #023859;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.image {
+    width: 100%;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 10px;
+}
+    h1 {
+        margin: 0;
+        font-size: 30px;
+    }
+
+    p{
+        margin: 0;
+    }
